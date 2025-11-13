@@ -70,7 +70,7 @@ const Index = () => {
 
         <footer className="p-6 md:p-8 text-center animate-fade-in">
           <p className="text-xs md:text-sm opacity-60" style={{ color: '#cccccc' }}>
-            OPENEBOOK © 2024. Все права на книги принадлежат авторам.
+            OPENEBOOK © 2025. Все права на книги принадлежат авторам.
           </p>
         </footer>
       </div>
