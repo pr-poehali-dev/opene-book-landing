@@ -57,7 +57,7 @@ const Index = () => {
                 }}
               >
                 <a 
-                  href="https://t.me/OPENEBOOK" 
+                  href="https://t.me/Openbookrubot" 
                   target="_blank" 
                   rel="noopener noreferrer"
                 >
